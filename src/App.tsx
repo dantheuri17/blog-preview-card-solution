@@ -4,7 +4,7 @@ import profileAvatar from "./assets/images/image-avatar.webp";
 function App() {
 	return (
 		<div className="flex items-center justify-center w-screen h-screen font-figtree bg-blog-yellow">
-			<div className="preview-card shadow-[8px_8px_0_0_rgb(0,0,0)] p-[1.5rem] grid grid-cols-1 gap-y-[24px] rounded-[1.25rem] bg-white w-[384px] h-[522px]">
+			<div className="preview-card border-[2px] border-black shadow-[8px_8px_0_0_rgb(0,0,0)] p-[1.5rem] grid grid-cols-1 gap-y-[24px] rounded-[1.25rem] bg-white w-[384px] h-[522px]">
 				<div className="flex justify-center w-full image-container">
 					<img src={illustrationArticle} className="w-full" alt="" />
 				</div>
