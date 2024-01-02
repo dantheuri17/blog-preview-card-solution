@@ -10,13 +10,13 @@ function App() {
 				</div>
 				<div className="grid grid-cols-1 gap-y-[12px]">
 					<div className="flex justify-center w-[82px] h-[29px] px-[12px] py-[4px] bg-blog-yellow">
-						<p className="font-bold">Learning</p>
+						<p className="font-bold text-[14px]">Learning</p>
 					</div>
-					<p className="">Published 21 Dec 2023</p>
-					<h1 className="text-2xl font-extrabold">
+					<p className="text-[14px]">Published 21 Dec 2023</p>
+					<h1 className="text-[24px] font-extrabold">
 						HTML & CSS foundations
 					</h1>
-					<p className="">
+					<p className="text-[16px]">
 						These languages are the backbone of every website, defining
 						structure, content, and presentation.
 					</p>
