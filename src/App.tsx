@@ -16,7 +16,7 @@ function App() {
 					<h1 className="text-[1.5rem] leading-[2.25rem] font-[800]">
 						HTML & CSS foundations
 					</h1>
-					<p className="text-[16px] leading-[24px]">
+					<p className="text-[1rem] leading-[1.5rem] font-[500]">
 						These languages are the backbone of every website, defining
 						structure, content, and presentation.
 					</p>
