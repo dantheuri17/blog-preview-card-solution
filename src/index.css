@@ -1,0 +1,12 @@
+   @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+.root, 
+#root, 
+#docs-root {
+  --blog-yellow: hsl(47, 88%, 63%);
+  --blog-grey: hsl(0, 0%, 50%);
+  --blog-black: hsl(0, 0%, 7%);
+  
+}
