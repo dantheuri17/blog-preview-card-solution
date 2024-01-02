@@ -7,6 +7,9 @@ export default {
         "blog-yellow": "var(--blog-yellow)",
         "blog-grey": "var(--blog-grey)",
         "blog-black": "var(--blog-black)"
+      }, 
+      fontFamily: {
+        figtree:['Figtree', 'sans-serif']
       }
     },
 	},

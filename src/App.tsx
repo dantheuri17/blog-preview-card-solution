@@ -4,7 +4,7 @@ import profileAvatar from "./assets/images/image-avatar.webp";
 function App() {
 	return (
 		<div className="flex items-center justify-center w-screen h-screen font-Figtree bg-blog-yellow">
-			<div className="preview-card p-[24px] grid grid-cols-1 gap-y-[24px] rounded-2xl bg-white w-[384px] h-[522px]">
+			<div className="preview-card p-[1.5rem] grid grid-cols-1 gap-y-[24px] rounded-[1.25rem] bg-white w-[384px] h-[522px]">
 				<div className="flex justify-center w-full image-container">
 					<img src={illustrationArticle} className="w-full" alt="" />
 				</div>
@@ -13,7 +13,7 @@ function App() {
 						<p className="font-bold text-[14px] leading-[21px]">Learning</p>
 					</div>
 					<p className="text-[14px] leading-[21px]">Published 21 Dec 2023</p>
-					<h1 className="text-[24px] leading-[36px] font-extrabold">
+					<h1 className="text-[1.5rem] leading-[2.25rem] font-[800]">
 						HTML & CSS foundations
 					</h1>
 					<p className="text-[16px] leading-[24px]">
